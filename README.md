@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psagredo99&label=Profile%20views&color=0e75b6&style=flat" alt="psagredo99" /> </p>
 
 - 🌱 I’m currently preparing **Sales Consultant certificate.**
-
+- 🧑‍💼 Salesforce consultant for PKF Attest 
 - 📫 How to reach me **psagredo@gmail.com**
 
 
