@@ -12,7 +12,7 @@
 - 📜 **Certified Salesforce Omnistudio Consultant**  
 - 🌱 Currently preparing **Sales Consultant Certificate**  
 - 🧑‍💼 Working as a Salesforce Consultant at **PKF Attest**  
-- 📫 Reach me at: **psagredo@gmail.com**
+- 📫 Reach me at: **psagredo99@gmail.com**
 
 ---
 
